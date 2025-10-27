@@ -1,8 +1,8 @@
 ## Olá! Eu sou Gabriela Bandeira 👋
 
 - 🔭 Atualmente sou uma desenvolvedora em treinamento
-- ⚡ Graduanda de Engenharia da Computação pela Escola Politécnica de Pernambuco/Universidade de Pernambuco (POLI/UPE)
-- 🌱 Estudando Python
+- ⚡ Graduanda em Engenharia da Computação pela Escola Politécnica de Pernambuco/Universidade de Pernambuco (POLI/UPE)
+- 🌱 Estudando Python & C
 - 📫 Contato: gabrielabdsantana@gmail.com
 
  <div>
