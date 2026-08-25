@@ -1,11 +1,10 @@
 ## Olá! Eu sou Gabriela Bandeira 👋
+## Seja Bem-vindo(a) ao meu portfólio de projetos!
 
 - 🔭 Atualmente sou uma analista de dados e desenvolvedora em treinameno;
 - ⚡ Graduanda em Engenharia da Computação pela Escola Politécnica de Pernambuco/Universidade de Pernambuco (POLI/UPE) - 4° Período;
 - 🌱 Estudando Python e SQL no momento (buscando sempre aprender cada vez mais);
 - 📫 Contato: gabrielabdsantana@gmail.com
-
-## Seja Bem-vindo(a) ao meu portfólio de projetos!
 
  <div>
   <a href="https://github.com/Gabriela-Bandeira">
